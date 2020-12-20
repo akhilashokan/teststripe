@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.pDiv{
+    
+    background-color: gray;
+    padding: 1%;
+    margin: 1%;
+}
+
+.pDiv img{
+    background-size: cover;
+    width: auto;
+}
